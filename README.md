@@ -4,7 +4,7 @@ Combined repository for all my Max4Live devices.
 
 
 
-## Note-To-Parameter
+## Note-To-Param
 
 Note-To-Parameter is a pair of M4L devices used to convert MIDI notes to Ableton parameters. 
 
